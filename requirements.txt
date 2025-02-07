@@ -1,0 +1,7 @@
+torch
+numpy
+gdown
+matplotlib
+scipy
+matplotlib
+scikit-learn
